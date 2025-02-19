@@ -1,0 +1,1 @@
+export 'movie_lists/now_playing.dart'; 
