@@ -25,7 +25,7 @@ HTTP package for network requests
 
 Setup Instructions
 1. Clone the repository
-git clone https://github.com/yourusername/flutter-movie-app.git
+git clone ttps://github.com/ALOYO-BRENDA-OJERA/movie_app)
 cd flutter-movie-app
 
 2. Install dependencies
